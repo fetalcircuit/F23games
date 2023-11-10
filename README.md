@@ -7,3 +7,6 @@
 * [Singularity, by Chase Abat](https://tiffanyfunk.com/F23games/singularity)
 * [Are You Not Entertained?, by Sofia Dolce](https://tiffanyfunk.com/F23games/entertained)
 * [Mr. Bee, by Joey Desparrois](https://tiffanyfunk.com/F23games/mrbee)
+* [Hope's End, by Vansh Mattraa](https://tiffanyfunk.com/F23games/hopes)
+* [Gods Among Us, by Darion Prince](https://tiffanyfunk.com/F23games/gods)
+* [Fruits of Your Labor, by Zachary Robbins](https://tiffanyfunk.com/F23games/fruits)
